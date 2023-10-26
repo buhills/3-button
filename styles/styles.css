@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+}
+main{
+    width: 300px;
+    padding: 20px;
+    margin: 20vh auto;
+}
+button{
+    margin: auto;
+    padding: 10px 10px;
+    width: 210px;
+    border-radius: 5px;
+    border: none;
+    font-size: 30px;
+    cursor: pointer;
+}
+.orange{
+background-color: rgb(215, 145, 14);
+}
